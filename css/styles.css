@@ -1,3 +1,12 @@
+body {
+  background-color: #C9F5FF;
+}
+
+h1 {
+  text-align: center;
+  color: #242423;
+}
+
 .row {
   margin-top: 30px;
 }
@@ -15,10 +24,15 @@
   background-color: blue;
 }
 
+.card:hover {
+  background-color: #89bbfe;
+}
+
 .card-title:hover {
   text-decoration: underline;
   font-weight: bold;
-  color: rgb(71, 71, 238);
+  color: #615d6c;
+  cursor: s-resize;
 }
 
 .card-title {
