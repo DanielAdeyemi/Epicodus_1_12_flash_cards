@@ -3,6 +3,7 @@
 }
 
 .card-text {
+  text-align: center;
   display: none;
 }
 
@@ -12,4 +13,16 @@
 
 .one {
   background-color: blue;
+}
+
+.card-title:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(71, 71, 238);
+}
+
+.card-title {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
