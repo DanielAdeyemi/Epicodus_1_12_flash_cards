@@ -6,8 +6,8 @@ ___
 ---
 
 ## *Description:*
-### *Have troubles to memorize coding syntax? This flash cards will hellp you to practice defenitions with immediate feedback. Try it now!*
-This project shows set of defenitions in card form and open each card on click (aka flash cards) to show description
+### *Have troubles to memorize JavaScript terminology? This flash cards will help you practice defenitions with immediate feedback. Try it now!*
+This project shows set of defenitions in card form and open each card on click (aka flash cards) to show description.
 
 ## *Setup instructions:*
 #### From the web:
